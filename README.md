@@ -1,0 +1,1 @@
+Programming codes for the estimation of efficiency and data on disclosure tone measures, accompanying a paper by C. Grande, E. Guillamon, M. Kapelko "Operational Performance and Disclosure Tone". The research was conducted within a project funded by the National Science Centre in Poland (grant no. 2023/49/B/HS4/02991).
