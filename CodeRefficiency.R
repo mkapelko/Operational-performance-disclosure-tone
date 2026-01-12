@@ -1,11 +1,8 @@
 ####DATA ENVELOPMENT ANALYSIS 
 ####Input-oriented, output-oriented and input-output oriented (hyperbolic) measures
 ####In the code we assume one dataset for the year 2021; we have one output, y, and seven inputs, x1-x7
-####FEAR package needs to be installed as it is not available in CRAN. The analysis for the paper were done with version 3.1 of FEAR. 
+####FEAR package needs to be installed as it is not available in CRAN. 
 
-
-#### Working directory 
-setwd("C:\\DANE\\AKTUALNE\\Encarna\\Paper")
 
 library(FEAR)
 
@@ -118,6 +115,7 @@ table.in[,5]=tmp$var
 table.in[,6:7]=tmp$conf.int
 
 write.table(table.in, file="outputf2021.txt")
+
 
 
 
