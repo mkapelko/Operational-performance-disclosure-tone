@@ -1,2 +1,2 @@
 Programming codes for the estimation of efficiency, mathematical models and data on disclosure tone measures, accompanying a paper by C. Grande-Herrera, E. Guillamon-Saorin, M. Kapelko "Operational Performance and Disclosure Tone", to appear in Research in International Business and Finance. The research was conducted within a project funded by the National Science Centre in Poland (grant no. 2023/49/B/HS4/02991).
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18210199.svg)]
+![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18210199.svg)
